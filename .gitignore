@@ -1,0 +1,37 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.pip/
+
+# SQLite database files
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+*.logs
+logs/
+
+# MacOS System files
+.DS_Store
+
+# Orchestrator files (dynamically generated)
+*_orchestrate_*.py
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Node_modules (if any frontend might be added)
+node_modules/
+npm-debug.log
