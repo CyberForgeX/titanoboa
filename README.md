@@ -169,8 +169,3 @@ We welcome contributions to improve the system and add new features!
 ### That's it!
 
 With **Titanoboa**, you're equipped to manage large, modular Python projects with ease, and handle dynamic module registration and execution through a robust, scalable architecture.
-
----
-
-This `README.md` provides detailed instructions and explanations, ensuring users understand how to install, use, and manage projects using your **Titanoboa Framework**.
-
